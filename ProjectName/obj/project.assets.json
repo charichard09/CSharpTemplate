@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/antonychase/.nuget/packages/": {}
+    "C:\\Users\\Char\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/antonychase/Documents/VS_code/Epicodus/C#/ProjectName.Solution/ProjectName/ProjectName.csproj",
+      "projectUniqueName": "C:\\Users\\Char\\Desktop\\epicodusProjects\\CSharpTemplate\\ProjectName\\ProjectName.csproj",
       "projectName": "ProjectName",
-      "projectPath": "/Users/antonychase/Documents/VS_code/Epicodus/C#/ProjectName.Solution/ProjectName/ProjectName.csproj",
-      "packagesPath": "/Users/antonychase/.nuget/packages/",
-      "outputPath": "/Users/antonychase/Documents/VS_code/Epicodus/C#/ProjectName.Solution/ProjectName/obj/",
+      "projectPath": "C:\\Users\\Char\\Desktop\\epicodusProjects\\CSharpTemplate\\ProjectName\\ProjectName.csproj",
+      "packagesPath": "C:\\Users\\Char\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Char\\Desktop\\epicodusProjects\\CSharpTemplate\\ProjectName\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/antonychase/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Char\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

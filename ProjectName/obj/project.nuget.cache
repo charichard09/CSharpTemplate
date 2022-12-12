@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9bY7Ka3+El+XEGanf8wKhtgE9QVWhChcimd5ZP180C2UHBxpnACnyDfE2VC/Tkage6GyNG/VWpc6w3esIYIwuA==",
+  "dgSpecHash": "BFws1U1kJ6w8UeuWC2QzpiSsdUjUbpf19GLSrPCkUDUI87fhNSJxAPJB1G9eVm1YyDIxlbX6HeHuIeL2Qc2s2w==",
   "success": true,
-  "projectFilePath": "/Users/antonychase/Documents/VS_code/Epicodus/C#/ProjectName.Solution/ProjectName/ProjectName.csproj",
+  "projectFilePath": "C:\\Users\\Char\\Desktop\\epicodusProjects\\CSharpTemplate\\ProjectName\\ProjectName.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
