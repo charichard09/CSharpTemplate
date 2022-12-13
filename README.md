@@ -7,8 +7,9 @@
 ## Technologies Used
 
 * _C#_
-* _.Net_
+* _.Net 6_
 * _MSTest_
+* _ASP.NET Core 6 MVC_
 
 ## Description
 
